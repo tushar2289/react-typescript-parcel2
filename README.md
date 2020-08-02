@@ -9,3 +9,23 @@ This is a bootstrap project for a React webapp using the following:
 5. Lint staged
 6. Jest
 7. React testing library
+
+# Scripts
+
+## Run dev server
+
+```
+yarn dev
+```
+
+## Build for production
+
+```
+yarn build
+```
+
+## Run tests
+
+```
+yarn test
+```

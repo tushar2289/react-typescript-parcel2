@@ -1,4 +1,4 @@
-modules.exports = {
+module.exports = {
   hooks: {
     'pre-commit': 'yarn pre-commit',
   },

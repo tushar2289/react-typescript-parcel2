@@ -29,3 +29,7 @@ yarn build
 ```
 yarn test
 ```
+
+# Signed commits
+
+Please sign your commits using [commit signature verification](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification)

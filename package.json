@@ -1,9 +1,8 @@
 {
-  "name": "bull_and_bears",
+  "name": "react-typescript-parcel2",
   "version": "1.0.0",
   "author": "tushar2289",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "dev": "parcel serve ./src/index.html",
     "build": "parcel build ./src/index.html --dist-dir build",
